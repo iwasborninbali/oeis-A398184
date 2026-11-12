@@ -1,5 +1,14 @@
 # OEIS A398184: maximal no-three-in-line subsets of the n X n grid
 
+<!-- oeis-status:begin -->
+**OEIS status** (lab registry, 13 Nov 2026):
+
+- [A398184](https://oeis.org/A398184), a(9), a(10): maximal no-three-in-line subsets: **approved** (2026-11-12: approved). Certificate: complete.
+- [A398184](https://oeis.org/A398184), supporting file: maximal subsets by size, n = 1..10: **reviewed** (2026-11-13: reviewed (edit #72, Andrew Howroyd, no notes)). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
+<!-- oeis-status:end -->
+
 [A398184](https://oeis.org/A398184): the number of maximal subsets of the n X n grid with no three collinear points (no further grid point can be added without creating a collinear triple). Rotations and reflections are counted separately.
 
 This repository holds the programs, data and checks behind the terms we contributed to this sequence. It concerns
