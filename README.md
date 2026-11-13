@@ -1,7 +1,7 @@
 # OEIS A398184: maximal no-three-in-line subsets of the n X n grid
 
 <!-- oeis-status:begin -->
-**OEIS status** (lab registry, 13 Nov 2026):
+**OEIS status** (lab registry, 14 Nov 2026):
 
 - [A398184](https://oeis.org/A398184), a(9), a(10): maximal no-three-in-line subsets: **approved** (2026-11-12: approved). Certificate: complete.
 - [A398184](https://oeis.org/A398184), supporting file: maximal subsets by size, n = 1..10: **approved** (2026-11-13: approved (live revision #73)). Certificate: complete.
